@@ -1,2 +1,34 @@
-Time Series Machine Learning Regression Framework: https://medium.com/towards-data-science/time-series-machine-learning-regression-framework-9ea33929009a
-Chapter 8: Regression with Lagged Explanatory Variables : http://personal.strath.ac.uk/gary.koop/Oheads_Chapter8.pdf
+1. https://machinelearningmastery.com/function-optimization-with-scipy/
+2. https://www.kdnuggets.com/2018/11/data-science-activities-business-initiatives-hypothesis-development-canvas.html
+3.https://www.youtube.com/watch?v=BJ6kyj-st9k&list=PLqYFiz7NM_SMC4ZgXplbreXlRY4Jf4zBP&index=8
+4.https://stackoverflow.com/questions/27479800/pandas-rolling-on-a-shifted-dataframe
+5.https://github.com/cuge1995/awesome-time-series#Code-Resource
+6.https://github.com/microsoft/forecasting
+7.https://towardsdatascience.com/trend-seasonality-moving-average-auto-regressive-model-my-journey-to-time-series-data-with-edc4c0c8284b
+8.https://towardsdatascience.com/lets-forecast-your-time-series-using-classical-approaches-f84eb982212c
+9.https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/
+10.https://otexts.com/fpp2/lagged-predictors.html
+11.https://towardsdatascience.com/timeseries-data-munging-lagging-variables-that-are-distributed-across-multiple-groups-86e0a038460c
+12.https://people.duke.edu/~rnau/timereg.html
+13.https://towardsdatascience.com/machine-learning-for-store-demand-forecasting-and-inventory-optimization-part-1-xgboost-vs-9952d8303b48
+14.https://medium.com/analytics-vidhya/regression-flight-price-prediction-6771fc4d1fb3
+15.https://towardsdatascience.com/demand-forecast-with-different-data-science-approaches-ba3703a0afb6
+16.https://www.kaggle.com/ekrembayar/store-item-demand-forecasting-with-lgbm
+17.https://www.kaggle.com/myster/eda-prophet-winning-solution-3-0
+18.https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c
+19.http://ethen8181.github.io/machine-learning/time_series/3_supervised_time_series.html
+20.https://github.com/microsoft/forecasting/blob/master/examples/grocery_sales/python/00_quick_start/lightgbm_single_round.ipynb
+21.https://towardsdatascience.com/dig-deep-enough-features-engineering-techniques-for-time-series-analysis-in-python-500c96aebade
+22.https://www.kaggle.com/dlarionov/feature-engineering-xgboost
+23.http://web.vu.lt/mif/a.buteikis/wp-content/uploads/2020/04/Example_05.html
+24.https://www.bryanshalloway.com/2020/10/12/window-functions-for-resampling/
+25.https://www.bryanshalloway.com/2020/10/12/window-functions-for-resampling/
+26.https://priyanka-choudhary.medium.com/time-series-forecasting-of-store-item-demand-ab3841cb9681
+27.https://github.com/microsoft/ML-For-Beginners/blob/main/7-TimeSeries/2-ARIMA/README.md
+28.https://mobidev.biz/blog/machine-learning-methods-demand-forecasting-retail
+29.https://www.youtube.com/watch?v=YVCJZ6nGNZw
+30.https://towardsdatascience.com/a-lightgbm-autoregressor-using-sktime-6402726e0e7b
+31.https://www.kdnuggets.com/2017/11/automated-feature-engineering-time-series-data.html
+32.https://medium.com/raposa-technologies/how-to-reduce-lag-in-a-moving-average-c300b1a69afd
+33.Time Series Machine Learning Regression Framework: https://medium.com/towards-data-science/time-series-machine-learning-regression-framework-9ea33929009a
+34.Chapter 8: Regression with Lagged Explanatory Variables : http://personal.strath.ac.uk/gary.koop/Oheads_Chapter8.pdf
